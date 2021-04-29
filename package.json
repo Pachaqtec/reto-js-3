@@ -1,0 +1,13 @@
+{
+  "name": "reto-js-1",
+  "version": "1.0.0",
+  "description": "primer reto de js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-traverse": "^6.19.0",
+    "jest": "^17.0.3"
+  }
+}
